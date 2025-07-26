@@ -49,3 +49,9 @@ Quest or Mission System
 Advanced Zombie Types (Bosses, Fast Zombies, etc.)
 
 Save/Load System
+
+## 🔗 Preview & Download
+
+Play the game or download the build on **Itch.io**:
+
+👉 [Play on Itch.io]: https://pradeep-09.itch.io/zombieland
